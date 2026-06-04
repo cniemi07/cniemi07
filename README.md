@@ -3,11 +3,11 @@
 ### A  Computer Science student at Michigan Tech and aspiring web developer
 <hr>
 
-- 🔭 I'm currently working on **an isle  royale  population simulation**
+-  I'm currently working on **an Isle Royale Wolf-Moose predator-prey relationship simulation**
 
-- 🌱 I'm currently learning **Javascript & React**
+-  I'm currently learning **Javascript with React**
 
-- 📫 How to reach me **25niemic@gmail.com**
+-  How to reach me **25niemic@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
