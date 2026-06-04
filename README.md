@@ -2,7 +2,6 @@
 
 ### A  Computer Science student at Michigan Tech and aspiring web developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cniemi07&label=Profile views&color=0e75b6&style=flat" alt="cniemi07" /> </p>
 
 - 🔭 I'm currently working on **an isle  royale  population simulation**
 
