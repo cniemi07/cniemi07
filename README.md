@@ -1,6 +1,6 @@
-# Hi 👋, I'm Caiden Niemi
+# Hi! I'm Caiden Niemi
 
-### A  Computer Science student at Michigan Tech and aspiring web developer
+### Computer Science student at Michigan Tech and aspiring web developer
 <hr>
 
 -  I'm currently working on **an Isle Royale Wolf-Moose predator-prey relationship simulation**
