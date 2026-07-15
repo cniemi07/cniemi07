@@ -1,11 +1,9 @@
 # Hi! I'm Caiden Niemi
 
-### Computer Science student at Michigan Tech and aspiring web developer
+### Computer Science student at Michigan Tech
 <hr>
 
--  I'm currently working on **an Isle Royale Wolf-Moose predator-prey relationship simulation**
-
--  I'm currently learning **Javascript with React**
+-  I'm currently working on a top-down roguelite 2d shooter
 
 -  How to reach me **25niemic@gmail.com**
 
